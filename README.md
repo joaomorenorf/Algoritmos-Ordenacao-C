@@ -1,4 +1,4 @@
-#Algoritmos de ordenação implementados:
+# Algoritmos de ordenação implementados:#
 
 void insertionSort(int n, int v[]);
 void bubbleSort(int n, int v[]);
